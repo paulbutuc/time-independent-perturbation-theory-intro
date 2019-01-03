@@ -7,6 +7,8 @@ In this paper I very briefly introduce some basic quantum mechanics concepts, th
 
 I wrote this paper for my third-year exam during my bachelor's degree in physics at [Unito](https://fisica.campusnet.unito.it/do/storicocorsi.pl/Show?_id=a435_1819).
 
+If you find any mistakes feel free to get in touch. I can't promise I will actually make any corrections, because since the time I wrote this I changed career and I now work as consultant software architect and developer for the web. Still, I would definitely appreciate any contributions anyway.
+
 ## License
 This work is licensed under CC BY-NC-SA 4.0.
 
